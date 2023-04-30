@@ -1,1 +1,7 @@
-Hospital management system built using sveltekit
+# Hospital management system built using `SvelteKit`
+
+- Inventory
+- Patients
+- Staffs
+- Appointments
+- Medical Records
